@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574094626570.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACF3541A",
+    "lastKnownWriteTime" : 1574094919,
+    "last_content_update" : 1574094919071,
+    "path" : "D:/R/harvardx/productivity_tools/home/projects/murders/report_on_gun_murders.Rmd",
+    "project_path" : "report_on_gun_murders.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
